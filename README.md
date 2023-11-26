@@ -35,6 +35,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ![CODE_HSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/6ada5e89-8910-45c4-ab72-04b41fbc72f1)
 
 ### Full Subtractor
+![CODE_FSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/aeea4908-1247-4a97-b5e9-a4912e7b8e9d)
 
 ## Output:
 
@@ -50,11 +51,14 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ![RTL_HSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/f75aec53-ec44-4f13-a475-3ba7210e68f9)
 
 ### Full Subtractor
+![RTL_FSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/ad0d9ec2-81e6-42a8-b543-63b7fd432365)
 
 ## Timing diagram 
 ### Half Subtractor
 ![TIMING_HSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/c532229f-26b6-4800-b5e1-2da9720962ea)
 
 ### Full Subtractor
+![TIMING_FSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/9f106e26-efc6-4e4a-a5a1-a1aab4da613d)
+
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
