@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -43,8 +43,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ![TT_HSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/787b921d-a5b7-4019-aff1-f5bbb91d51b5)
 
 ### Full Subtractor
-![TT_FSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/40f7943d-ad75-4469-9a1c-7fc3f7c13c75)
-
+![TT_FSUB](https://github.com/MOHAMEDAHSAN/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139331378/f2e3074d-3ba6-4b8a-92ec-5c70de5c9ae6)
 
 ##  RTL realization
 ### Half Subtractor
